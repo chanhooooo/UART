@@ -1,4 +1,4 @@
-`include "uart_tx.v"
+`include "UART_TX.v"
 `include "UART_RX.v"
 `timescale 1ns/10ps
 
